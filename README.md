@@ -1,0 +1,1 @@
+# transfering-twenty-percentage-of-images-from-one-folder-to-other-in--python
